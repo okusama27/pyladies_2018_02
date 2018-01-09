@@ -1,2 +1,3 @@
-# pyladies_2018_02
-PyLadiesの2018年2月イベント用
+# PyLadiesの2018年2月
+
+PyLadiesの2018年2月のイベントの準備
