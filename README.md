@@ -1,0 +1,2 @@
+# pyladies_2018_02
+PyLadiesの2018年2月イベント用
