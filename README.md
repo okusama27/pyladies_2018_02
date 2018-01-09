@@ -6,7 +6,7 @@ PyLadiesの2018年2月のイベントの準備
 - PyLadies connpass: https://pyladies-tokyo.connpass.com/
 
 ## アジェンダ
-単体試験ツールの詳解とハンズオン
+タイトル: 単体試験ツールの詳解とハンズオン
 
 1. 単体試験とは
 2. テスト駆動開発（失敗するテストを書こう）
