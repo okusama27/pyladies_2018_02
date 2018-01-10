@@ -18,8 +18,8 @@ PyLadiesの2018年2月のイベントの準備
 4. 演習
 
 - 演習: 簡単な関数のテストを書こう（テスト駆動） 
-- 演習: usefixturesしてみよう。
-- 演習: パラメタライズドテストしてみよう。
+- 演習: pytest.mark.usefixturesを使おう。
+- 演習: pytest.mark.parametrizeを使おう。
 
 5. Mockを使おう
 
