@@ -16,17 +16,16 @@
 
 - 準備のために勉強した本
 
-[単体試験とは]()
-[テスト駆動開発（失敗するテストを書こう）]()
+[単体試験とは](test.md)
 
-- テスト駆動開発のやり方でFizzBuzz
-
-[テスト用モジュール紹介]()
+[unittestの紹介](./add_one/README.md)
 
 - unittest
 - pytest
 
+[テスト駆動開発（失敗するテストを書こう）](./fizzbuzz/README.md)
 
+- テスト駆動開発のやり方でFizzBuzz
 
 ## 演習
 
