@@ -29,7 +29,7 @@
 
 ## 演習
 
-- 演習: テスト駆動開発のやり方でFizzBuzzにHogeを追加しよう
+- 演習: [テスト駆動開発のやり方でFizzBuzzにHogeを追加しよう](./fizzbuzz/test_fizzbuzz_10.py)
 - 演習: Mockを使おう
 
 ## 参考サイト
