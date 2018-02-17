@@ -1,26 +1,37 @@
-# PyLadiesの2018年2月
+# Pythonでの単体試験とハンズオン
 
-PyLadiesの2018年2月のイベントの準備
+[PyLadies Tokyo Meetup #29 Pythonテストをまなぼう](https://pyladies-tokyo.connpass.com/event/76967/) の資料です。
+
 
 - PyLadies Tokyo: http://tokyo.pyladies.com/
 - PyLadies connpass: https://pyladies-tokyo.connpass.com/
 
-## アジェンダ
-タイトル: 単体試験ツールの詳解とハンズオン
+## Outline
 
-1. 単体試験とは
-2. テスト駆動開発（失敗するテストを書こう）
-3. テスト用モジュール紹介
+[お前、誰よ](whoami.md)
 
-- unittest（ちょっとだけ紹介）
-- pytest（主にこっちを多めに）
+- 自己紹介
 
-4. 演習
+[はじめに](first.md)
 
-- 演習: 簡単な関数のテストを書こう（テスト駆動） 
-- 演習: pytest.mark.usefixturesを使おう。
-- 演習: pytest.mark.parametrizeを使おう。
+- 準備のために勉強した本
 
-5. Mockを使おう
+[単体試験とは]()
+[テスト駆動開発（失敗するテストを書こう）]()
 
-- 演習：　スクレイピングするスクリプトのテストをMockを利用して作ろう
+- テスト駆動開発のやり方でFizzBuzz
+
+[テスト用モジュール紹介]()
+
+- unittest
+- pytest
+
+
+
+## 演習
+
+- 演習: テスト駆動開発のやり方でFizzBuzzにHogeを追加しよう
+- 演習: Mockを使おう
+
+## 参考サイト
+[26.4. unittest — ユニットテストフレームワーク](https://docs.python.org/ja/3/library/unittest.html)
