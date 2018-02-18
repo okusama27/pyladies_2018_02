@@ -38,3 +38,5 @@ TODO
 - [ ] fib(0) = 0
 - [ ] fib(1) = 1
 - [ ] fib(n+2) = fib(n+1) + fib(n) + 1 (n ≧ 0)
+
+解答は、 [./fib](./fib)

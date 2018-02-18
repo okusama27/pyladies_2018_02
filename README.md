@@ -29,4 +29,4 @@ PyLaidesへのリンク
 
   - FizzBuzzにHogeを追加しよう
   - フィボナッチ数を返す関数を作ろう
-  - Mockを使おう
+  - Mockを使おう（未実装）
