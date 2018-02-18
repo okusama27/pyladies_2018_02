@@ -3,7 +3,7 @@ from unittest import TestCase
 
 def add_one(num):
     """引数に1足した値を返す関数."""
-    return num + 1
+    return num + 2
 
 
 class TestAddOne(TestCase):
