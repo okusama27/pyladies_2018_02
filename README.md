@@ -32,5 +32,3 @@
 - 演習: [テスト駆動開発のやり方でFizzBuzzにHogeを追加しよう](./fizzbuzz/test_fizzbuzz_10.py)
 - 演習: Mockを使おう
 
-## 参考サイト
-[26.4. unittest — ユニットテストフレームワーク](https://docs.python.org/ja/3/library/unittest.html)
