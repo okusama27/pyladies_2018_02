@@ -2,33 +2,31 @@
 
 [PyLadies Tokyo Meetup #29 Pythonテストをまなぼう](https://pyladies-tokyo.connpass.com/event/76967/) の資料です。
 
+PyLaidesへのリンク
 
-- PyLadies Tokyo: http://tokyo.pyladies.com/
-- PyLadies connpass: https://pyladies-tokyo.connpass.com/
+- [PyLadies Tokyo](http://tokyo.pyladies.com/)
+- [PyLadies connpass](https://pyladies-tokyo.connpass.com/)
 
-## Outline
+## 自己紹介
 
-[お前、誰よ](whoami.md)
+- [お前、誰よ](0_WhoAmI.md)
 
-- 自己紹介
+## はじめに
 
-[はじめに](first.md)
+- [はじめに](1_FirstTalk.md)
 
-- 準備のために勉強した本
+## 単体テスト
 
-[単体試験とは](test.md)
+- [単体テストとは](2_AboutTest.md)
 
-[unittestの紹介](./add_one/README.md)
+- [単体テスト用モジュール](3_TestModule.md)
 
-- unittest
-- pytest
-
-[テスト駆動開発（失敗するテストを書こう）](./fizzbuzz/README.md)
-
-- テスト駆動開発のやり方でFizzBuzz
+- [テスト駆動開発（失敗するテストを書こう）](4_TDD.md)
 
 ## 演習
 
-- 演習: [テスト駆動開発のやり方でFizzBuzzにHogeを追加しよう](./fizzbuzz/test_fizzbuzz_10.py)
-- 演習: Mockを使おう
+- [演習](./Exercises/README.md)
 
+  - FizzBuzzにHogeを追加しよう
+  - フィボナッチ数を返す関数を作ろう
+  - Mockを使おう
