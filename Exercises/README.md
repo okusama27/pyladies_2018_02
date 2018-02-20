@@ -7,6 +7,8 @@
 [test_fizzbuzz.py](fizzbuzzhoge/test_fizzbuzz.py) に書き足しましょう。
 
 TODO
+- [ ] 数字を文字列で返す
+ただし、
 - [x] 3で割り切れる数の場合は「Fizz」と返す
 - [x] 5で割り切れる数の場合は「Buzz」と返す
 - [ ] 7で割り切れる数の場合は「Hoge」と返す
@@ -14,7 +16,6 @@ TODO
 - [ ] 3と7で割り切れる数の場合は「FizzHoge」と返す
 - [ ] 5と7で割り切れる数の場合は「BuzzHoge」と返す
 - [ ] 3と5と7で割り切れる数の場合は「FizzBuzzHoge」と返す
-- [ ] 3でも5でも7でも割り切れない数の場合は、その数の文字列を返す
 
 解答は [test_fizzbuzzhoge.py](fizzbuzzhoge/test_fizzbuzzhoge.py) 
 

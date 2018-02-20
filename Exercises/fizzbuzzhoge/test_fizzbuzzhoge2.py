@@ -8,18 +8,28 @@ FizzBuzz.
 - [X] 3で割り切れる数の場合は「Fizz」と返す
 - [x] 5で割り切れる数の場合は「Buzz」と返す
 - [x] 3と5で割り切れる数の場合は「FizzBuzz」と返す
+
+- [x] 7で割り切れる数の場合は「Hoge」と返す
+- [x] 3と7で割り切れる数の場合は「FizzHoge」と返す
+- [x] 5と7で割り切れる数の場合は「BuzzHoge」と返す
+- [x] 3と5と7で割り切れる数の場合は「FizzBuzzHoge」と返す
+
+- [x] リファクタリング
 """
 
 
 def fizz_buzz(num):
     """FizzBuzz."""
-    if num % 3 == 0 and num % 5 == 0:
-        return "FizzBuzz"
+    result = ""
     if num % 3 == 0:
-        return "Fizz"
+        result += "Fizz"
     if num % 5 == 0:
-        return "Buzz"
-    return str(num)
+        result += "Buzz"
+    if num % 7 == 0:
+        result += "Hoge"
+    if result == "":
+        result = str(num)
+    return result
 
 
 def test_fizzbuzz_1():
@@ -60,3 +70,28 @@ def test_fizzbuzz_15():
 def test_fizzbuzz_30():
     """30を渡したらFizzBuzzを返すのを確認するテスト."""
     assert "FizzBuzz" == fizz_buzz(30)
+
+
+def test_fizzbuzz_7():
+    """7を渡したらHogeを返すのを確認するテスト."""
+    assert "Hoge" == fizz_buzz(7)
+
+
+def test_fizzbuzz_14():
+    """14を渡したらHogeを返すのを確認するテスト."""
+    assert "Hoge" == fizz_buzz(14)
+
+
+def test_fizzbuzz_21():
+    """21を渡したらFizzHogeを返すのを確認するテスト."""
+    assert "FizzHoge" == fizz_buzz(21)
+
+
+def test_fizzbuzz_35():
+    """35を渡したらBuzzHogeを返すのを確認するテスト."""
+    assert "BuzzHoge" == fizz_buzz(35)
+
+
+def test_fizzbuzz_105():
+    """105を渡したらFizzBuzzHogeを返すのを確認するテスト."""
+    assert "FizzBuzzHoge" == fizz_buzz(105)
