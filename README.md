@@ -28,5 +28,5 @@ PyLaidesへのリンク
 - [演習](./Exercises/README.md)
 
   - FizzBuzzにHogeを追加しよう
+  - 世界のナベアツ
   - フィボナッチ数を返す関数を作ろう
-  - Mockを使おう（未実装）
