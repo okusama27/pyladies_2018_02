@@ -1,5 +1,8 @@
 {
   "test_fizzbuzz.py::test_result_fizz": true,
   "test_fizzbuzz_1.py::test_one": true,
-  "test_fizzbuzz_5.py::test_fizzbuzz_15": true
+  "test_fizzbuzz_5.py::test_fizzbuzz_15": true,
+  "test_fizzbuzz_7.py::test_fizzbuzz": true,
+  "test_fizzbuzz_7.py::test_fizzbuzz[11-Buzz]": true,
+  "test_fizzbuzz_7.py::test_fizzbuzz[31-FizzBuzz]": true
 }

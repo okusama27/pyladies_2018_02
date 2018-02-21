@@ -12,7 +12,7 @@ FizzBuzz.
 
 
 def fizz_buzz(num):
-    """FizzBuzz."""
+    """FizzBuzzHoge."""
     if num % 3 == 0 and num % 5 == 0:
         return "FizzBuzz"
     if num % 3 == 0:

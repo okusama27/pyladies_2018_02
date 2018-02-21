@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e2b770b-369d-4445-806b-ebc578dfa03c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_6.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exercises/fib/test_fib_6.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_7.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/4_TDD.md" afterPath="$PROJECT_DIR$/4_TDD.md" />
-      <change beforePath="$PROJECT_DIR$/Exercises/README.md" afterPath="$PROJECT_DIR$/Exercises/README.md" />
       <change beforePath="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzz.py" afterPath="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzz.py" />
       <change beforePath="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge.py" afterPath="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge.py" />
+      <change beforePath="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge2.py" afterPath="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge2.py" />
       <change beforePath="$PROJECT_DIR$/samples/fizzbuzz/.pytest_cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/samples/fizzbuzz/.pytest_cache/v/cache/lastfailed" />
-      <change beforePath="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_1.py" afterPath="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_1.py" />
-      <change beforePath="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_2.py" afterPath="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_2.py" />
-      <change beforePath="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_3.py" afterPath="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_3.py" />
-      <change beforePath="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_4.py" afterPath="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_4.py" />
-      <change beforePath="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_5.py" afterPath="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_5.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,67 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="4_TDD.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_TDD.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="355">
-                <caret line="44" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="270">
-                <caret line="18" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_fib_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/fib/test_fib_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_fib_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/fib/test_fib_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="test_fizzbuzzhoge.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
-              <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_fib_3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/fib/test_fib_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="167">
+              <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -102,8 +41,18 @@
       <file leaf-file-name="test_fizzbuzzhoge2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            <state relative-caret-position="90">
+              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_fizzbuzzhoge3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-181">
+              <caret line="55" column="37" lean-forward="true" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -122,18 +71,58 @@
       <file leaf-file-name="test_fib_5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises/fib/test_fib_5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_fizzbuzz_6.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_fib_6.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/fib/test_fib_6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doctest_sample.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/doctest_sample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_fizzbuzz_6.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="41" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state relative-caret-position="314">
+              <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_fizzbuzz_7.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="31" column="38" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="31" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_fizzbuzz.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -156,6 +145,7 @@
       <find>fizzbuzz.call</find>
       <find>fizzbuzz</find>
       <find>test_call_</find>
+      <find>fizz_buzz(</find>
     </findStrings>
     <replaceStrings>
       <replace>fizzbuzz</replace>
@@ -163,6 +153,7 @@
       <replace>check_fizz_buzz(</replace>
       <replace>fizz_buzz</replace>
       <replace>test_</replace>
+      <replace>fizz_buzz_hoge(</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -196,20 +187,22 @@
         <option value="$PROJECT_DIR$/Exercises/fib/test_fib_3.py" />
         <option value="$PROJECT_DIR$/Exercises/fib/test_fib_4.py" />
         <option value="$PROJECT_DIR$/2_AboutTest.md" />
-        <option value="$PROJECT_DIR$/Exercises/fib/test_fib_5.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/4_TDD.md" />
         <option value="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_1.py" />
         <option value="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_2.py" />
         <option value="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_3.py" />
         <option value="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_4.py" />
-        <option value="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_7.py" />
         <option value="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_5.py" />
         <option value="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_6.py" />
-        <option value="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzz.py" />
         <option value="$PROJECT_DIR$/Exercises/README.md" />
+        <option value="$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_7.py" />
+        <option value="$PROJECT_DIR$/Exercises/fib/test_fib_5.py" />
+        <option value="$PROJECT_DIR$/Exercises/fib/test_fib_6.py" />
+        <option value="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzz.py" />
         <option value="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge.py" />
         <option value="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge2.py" />
+        <option value="$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge3.py" />
       </list>
     </option>
   </component>
@@ -240,6 +233,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,8 +279,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,17 +288,17 @@
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Exercises/fizzbuzzhoge" />
-      <recent name="$PROJECT_DIR$/samples/fizzbuzz" />
-      <recent name="$PROJECT_DIR$/Exercises/fib" />
-      <recent name="$PROJECT_DIR$/Exercises" />
-      <recent name="$PROJECT_DIR$/fizzbuzz" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Exercises/fib" />
       <recent name="$PROJECT_DIR$/Exercises/fizzbuzzhoge" />
       <recent name="$PROJECT_DIR$/samples" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercises/fizzbuzzhoge" />
+      <recent name="$PROJECT_DIR$/Exercises/fib" />
+      <recent name="$PROJECT_DIR$/samples/fizzbuzz" />
+      <recent name="$PROJECT_DIR$/Exercises" />
+      <recent name="$PROJECT_DIR$/fizzbuzz" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -641,7 +634,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875368" sideWeight="0.49734244" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21589793" sideWeight="0.49430525" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2865772" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29060403" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -672,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,7 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -738,7 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -746,7 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,7 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,7 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,13 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/samples/doctest_sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/samples/pytest_sample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -862,14 +837,12 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="480">
             <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -880,7 +853,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1335">
             <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -891,7 +863,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="315">
             <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -901,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -909,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -917,7 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -925,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -933,30 +900,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4_TDD.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="355">
+          <first_editor relative-caret-position="660">
             <caret line="44" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -972,22 +922,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,6 +949,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/samples/doctest_sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/fib/test_fib_4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1025,16 +975,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/fib/test_fib_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_6.py">
+    <entry file="file://$PROJECT_DIR$/Exercises/fib/test_fib_6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="41" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/fizzbuzz/test_fizzbuzz_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="31" column="38" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="31" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/fizzbuzzhoge/test_fizzbuzzhoge3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <caret line="55" column="37" lean-forward="true" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
           <folding />
         </state>
       </provider>

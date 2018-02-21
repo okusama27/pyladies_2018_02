@@ -18,8 +18,8 @@ FizzBuzz.
 """
 
 
-def fizz_buzz(num):
-    """FizzBuzz."""
+def fizz_buzz_hoge(num):
+    """FizzBuzzHoge."""
     result = ""
     if num % 3 == 0:
         result += "Fizz"
@@ -34,64 +34,64 @@ def fizz_buzz(num):
 
 def test_fizzbuzz_1():
     """1を渡したら文字列1を返すテスト."""
-    assert "1" == fizz_buzz(1)
+    assert "1" == fizz_buzz_hoge(1)
 
 
 def test_fizzbuzz_2():
     """2を渡したら2を返すのを確認するテスト."""
-    assert "2" == fizz_buzz(2)
+    assert "2" == fizz_buzz_hoge(2)
 
 
 def test_fizzbuzz_3():
     """3を渡したらFizzを返すのを確認するテスト."""
-    assert "Fizz" == fizz_buzz(3)
+    assert "Fizz" == fizz_buzz_hoge(3)
 
 
 def test_fizzbuzz_6():
     """6を渡したらFizzを返すのを確認するテスト."""
-    assert "Fizz" == fizz_buzz(6)
+    assert "Fizz" == fizz_buzz_hoge(6)
 
 
 def test_fizzbuzz_5():
     """5を渡したらBuzzを返すのを確認するテスト."""
-    assert "Buzz" == fizz_buzz(5)
+    assert "Buzz" == fizz_buzz_hoge(5)
 
 
 def test_fizzbuzz_10():
     """5を渡したらBuzzを返すのを確認するテスト."""
-    assert "Buzz" == fizz_buzz(10)
+    assert "Buzz" == fizz_buzz_hoge(10)
 
 
 def test_fizzbuzz_15():
     """15を渡したらFizzBuzzを返すのを確認するテスト."""
-    assert "FizzBuzz" == fizz_buzz(15)
+    assert "FizzBuzz" == fizz_buzz_hoge(15)
 
 
 def test_fizzbuzz_30():
     """30を渡したらFizzBuzzを返すのを確認するテスト."""
-    assert "FizzBuzz" == fizz_buzz(30)
+    assert "FizzBuzz" == fizz_buzz_hoge(30)
 
 
 def test_fizzbuzz_7():
     """7を渡したらHogeを返すのを確認するテスト."""
-    assert "Hoge" == fizz_buzz(7)
+    assert "Hoge" == fizz_buzz_hoge(7)
 
 
 def test_fizzbuzz_14():
     """14を渡したらHogeを返すのを確認するテスト."""
-    assert "Hoge" == fizz_buzz(14)
+    assert "Hoge" == fizz_buzz_hoge(14)
 
 
 def test_fizzbuzz_21():
     """21を渡したらFizzHogeを返すのを確認するテスト."""
-    assert "FizzHoge" == fizz_buzz(21)
+    assert "FizzHoge" == fizz_buzz_hoge(21)
 
 
 def test_fizzbuzz_35():
     """35を渡したらBuzzHogeを返すのを確認するテスト."""
-    assert "BuzzHoge" == fizz_buzz(35)
+    assert "BuzzHoge" == fizz_buzz_hoge(35)
 
 
 def test_fizzbuzz_105():
     """105を渡したらFizzBuzzHogeを返すのを確認するテスト."""
-    assert "FizzBuzzHoge" == fizz_buzz(105)
+    assert "FizzBuzzHoge" == fizz_buzz_hoge(105)
