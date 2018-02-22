@@ -32,4 +32,9 @@ PyLaidesへのリンク
   - フィボナッチ数を返す関数を作ろう
 
 終わって暇な方は、こちらをどうぞ
-[くろのて勉強会の課題を解いてみた](https://github.com/okusama27/cronete_task)
+
+- [Project Euler](https://projecteuler.net/archives)
+テストも書きつつ課題に取り組むと楽しそうです。
+
+- [くろのて勉強会の課題を解いてみた](https://github.com/okusama27/cronete_task)
+楽しい問題があります。
