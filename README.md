@@ -30,3 +30,6 @@ PyLaidesへのリンク
   - FizzBuzzにHogeを追加しよう
   - 世界のナベアツ
   - フィボナッチ数を返す関数を作ろう
+
+終わって暇な方は、こちらをどうぞ
+[くろのて勉強会の課題を解いてみた](https://github.com/okusama27/cronete_task)
