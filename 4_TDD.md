@@ -4,6 +4,9 @@
 
 ![テスト駆動開発](./images/tdd_book.png)
 
+この本のサンプルの殆どがJavaで書かれていたので、Pythonで書き直してみました。
+[books_code_of_python/test_driven_development](https://github.com/okusama27/books_code_of_python/tree/master/test_driven_development)
+
 ## メリット
 
 - 必要なものだけ実装できる
